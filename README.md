@@ -22,5 +22,4 @@ spring5+springmvc+mybatis crud demo
 * JSR303
 
 # Effect picture
-https://github.com/andochiwa/SSM-CRUD-DEMO/blob/master/src/main/webapp/static/demo.png
-
+ ![image](https://github.com/andochiwa/SSM-CRUD-DEMO/blob/master/src/main/webapp/static/demo.png)
