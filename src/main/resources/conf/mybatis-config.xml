@@ -9,6 +9,9 @@
         <setting name="logImpl" value="STDOUT_LOGGING"/>
         <!--驼峰命名规则-->
         <setting name="mapUnderscoreToCamelCase" value="true"/>
+        <!--懒加载-->
+        <setting name="lazyLoadingEnabled" value="true"/>
+        <setting name="aggressiveLazyLoading" value="false"/>
     </settings>
 
     <!--pageHelper配置-->
