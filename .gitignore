@@ -1,7 +1,7 @@
 /.settings
 /bin
-*/target/*
-*/out/
+/target
+/out
 
 *.MF
 !.gitignore
@@ -12,6 +12,4 @@
 .classpath
 
 .idea
-.class
 *.class
-*.log
