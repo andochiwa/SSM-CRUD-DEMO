@@ -12,7 +12,7 @@ spring5+springmvc+mybatis crud demo
 * springmvc
 * mybatis
 
-# Web server
+## Web server
 * Tomcat9
 
 ## Other
